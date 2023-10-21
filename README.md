@@ -2,5 +2,5 @@
 https://www.online-cpp.com/
 
 
-# 作業六
-https://forms.gle/JDHLyYSRsmkpwY1YA
+# 作業七
+https://forms.gle/pEavNxMp2jno7tcr8
