@@ -16,9 +16,11 @@ int main()
     
     //測驗帳號密碼
     
-    if
-    cout<<"登入成功！"<<endl;
+    if                                        //帳號密碼都正確
+        cout<<"登入成功！"<<endl;
+    else if                                   //帳號或者密碼錯誤
+        cout<<"帳號或密碼錯誤"<<endl;
     else
-    cout<<"登入失敗！"<<endl;
+        cout<<"登入失敗！"<<endl;
     
 }
