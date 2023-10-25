@@ -16,9 +16,9 @@ int main()
     
     //測驗帳號密碼
     
-    //if
+    if
     cout<<"登入成功！"<<endl;
-    //else
+    else
     cout<<"登入失敗！"<<endl;
     
 }
