@@ -9,17 +9,18 @@ int main()
     int ;      //設定為y
     
     //輸入
+    cout<<"請輸入x和y：";
     cin;
 
     //條件判斷
     
-    //if                  
+    if                  
     cout<<"x=y"<<endl;
     
-    //else if             
+    else if             
     cout<<"x<y"<<endl;
     
-    //else
+    else
     cout<<"x>y"<<endl;
     
 }
