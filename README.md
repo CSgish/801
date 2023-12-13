@@ -2,8 +2,8 @@
 https://www.online-cpp.com/
 
 
-# 作業十
-https://forms.gle/ZsEDMVv8sMHmqTP97
+# kahoot
+https://kahoot.it/
 
 # 英文單字網站
 https://etlady.tw/TYC/
