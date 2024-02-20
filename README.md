@@ -5,6 +5,6 @@ https://www.online-cpp.com/
 https://forms.gle/JsUa97AUqqe6z2y18
 
 # 英文單字網站
-https://etlady.tw/TYC/
+https://tyc.etlady.tw/
 
 
