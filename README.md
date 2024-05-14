@@ -9,3 +9,6 @@ https://tyc.etlady.tw/
 
 # 學習輔助測驗
 https://exam2.tcte.edu.tw/teac_school/
+
+# 影片
+https://www.youtube.com/watch?v=xMYD0MrSuJc&t=242s
