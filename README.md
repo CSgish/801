@@ -7,4 +7,5 @@ https://forms.gle/dwxRFNyHXuZbuZ8d6
 # 英文單字網站
 https://tyc.etlady.tw/
 
-
+# 學習輔助測驗
+https://exam2.tcte.edu.tw/teac_school/
