@@ -16,3 +16,5 @@ https://www.canva.com/design/DAGHINwdOfM/AnakPX0xiTYn3PCwbmu6AA/view?utm_content
 # 學習輔助測驗
 https://exam2.tcte.edu.tw/teac_school/
 
+# kahoot
+https://kahoot.it/
